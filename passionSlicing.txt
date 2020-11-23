@@ -1,0 +1,98 @@
+
+H1 - Playfair Display , 30px , regular, #601220 , line height : 32px
+
+H2 - Playfair Display , 25px , regular, #601220 , line height : 30px
+
+H3 - Poppins , 35px , Bold , #601220
+
+
+
+P1 - Poppins , 18px , Light , #151515 , line height : 24px
+
+P2 - Poppins , 14px , Light , #151515 , line height : 20px
+
+P3 - Poppins, 12px, #f8a88f
+
+Cursive - CheGuevara Sign , 60px , #000000
+
+button : rounded rectangles , height:35px , #601220 , text (gilroy , 16px , semibold ,  #ffffff )
+hover buttons : stroke : 2px , #601220 , text color : #601220
+
+-----------------------------
+
+Menu:
+
+Navbar-background:#601220; 
+Home  Peace  Passion  Purpose  Work With Us
+(P2 - #ffffff, active-menu:medium, small-underline:#f8a88f)
+
+-----------------------
+
+Passion: That little spark inside, 
+fuel it with love and ignite the flames.
+(H1)
+
+April 16, 2020
+(P3)
+
+Continue Reading
+(P1 - Medium)(Hover: #601220)
+
+-------------------------
+
+Discover Pleasure
+(H2)
+
+It is acknowledging the part you played in being where you are. Truth is also about aligning your ....
+(P1)
+
+Read More
+(P2 - #052647)
+
+-------------------------
+
+For more updates on our recent blogs
+(P1 - regular)
+
+Sign Up!
+(H3)
+
+--------------------------
+
+RIGHT SECTION:
+
+Simphiwe Madungandaba
+(H2 - #151515)
+
+Life Coach
+(P1 - #601220)
+
+Spreading Love, Awareness 
+and Positivity
+(P1)
+
+MUST-READ ARTICLES
+(P2 - 16px, Medium)
+
+Hobbies and side hustles 
+(P2 - 16px, regular )
+
+April 16, 2020
+(P3)
+
+-------------------------------
+
+Footer:
+
+Daily Quotes.
+(P1 - Bold, #601220)
+
+From a practical standpoint, peace is the ability to focus on your own journey. To gracefully run your own race in your own lane, being content with your 
+progress, and celebrating your achievements when you have done well. 
+(P2)
+
+Copyright 2020 FetchYourLife. All Right Reserved
+(P2)
+
+
+
